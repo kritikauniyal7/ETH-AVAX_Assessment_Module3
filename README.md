@@ -9,6 +9,7 @@ This is a straightforward Solidity smart contract designed to establish and mana
 
 ## Key Aspects
 1.Name and Symbol: The token possesses a name and symbol, which are accessible on the blockchain.
+
 2.Total Supply: The token's total supply remains constant after deployment and is publicly accessible.
 3.Balances: The contract monitors token balances held by each address. Users can query their personal balance.
 4.Transfer: Users can move tokens to other addresses, with the contract validating sufficient balance prior to executing the transfer.
