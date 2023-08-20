@@ -65,6 +65,10 @@ mint(address _to, uint256 _value): Empowers the owner to mint _value new tokens 
 Kritika Uniyal
 Student-Chandigarh University
 
+## Explanation Video
+https://www.loom.com/share/6f9cc80bb45b42cdb258450949965886?sid=b5ecb1f5-3e20-4fb0-a919-3850c7387cea
+(I have added and executed the burn function in the code).
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
