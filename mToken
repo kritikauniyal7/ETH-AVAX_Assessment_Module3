@@ -68,7 +68,7 @@ contract MintableToken {
 
         emit Transfer(address(0), to, value);
     }
-function burn(uint256 value) external onlyOwner {
+function burn(uint256 value)  {
     require(balanceOf[msg.sender] >= value, "Insufficient balance for burning");
     require(totalSupply >= value, "Total supply cannot be less than burned amount");
 
