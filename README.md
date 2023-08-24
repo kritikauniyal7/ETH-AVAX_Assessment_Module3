@@ -66,9 +66,8 @@ Kritika Uniyal
 Student-Chandigarh University
 
 ## Explanation Video
-https://www.loom.com/share/6f9cc80bb45b42cdb258450949965886?sid=b5ecb1f5-3e20-4fb0-a919-3850c7387cea
+https://www.loom.com/share/18061339e1154301ac038f48287264f0?sid=5d1b00f8-ad20-409e-848c-cd67250e78c9
 
-(I have added and executed the burn function in the code and Everyone is  able to burn their own token not only the owner).
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
